@@ -1,4 +1,4 @@
-# Ciencia de datos - Trabajo Final de Máster sobre la contaminación acústica.
+# Ciencia de datos - Trabajo Final de Máster sobre la contaminación acústica
 
 Autor: Álvaro López Cabello
 
@@ -6,4 +6,11 @@ Este repositorio contiene los datos y el código correspondiente al desarrollo d
 
 La mayor parte de la captura, procesamiento y análisis exploratorio de los datos se ha llevado a cabo de Python, aunque QGIS ha sido de ayuda para la unión de algunas capas vectoriales. A partir de los conjuntos de datos generados, se ha creado un [dashboard interactivo](https://public.tableau.com/app/profile/.lvaro.l.pez7412/viz/Contaminacinacstica/Dashboard2) en Tableau con los mapas de ruido y otras visualizaciones de interés.
 
+El repositorio contiene el directorio *Código* con los siguientes notebooks creados durante el trabajo:
+
+- [Código/Tráfico_mensual_y_calles.ipynb](Código/Tráfico_mensual_y_calles.ipynb): carga, limpieza y análisis de los datos con la intensidad del tráfico y los puntos de medida y de la asignación del tráfico a los ejes viarios. Se obtienen doce ficheros shapefiles para cargarlos en NoiseModelling.
+- [Código/Edificios.ipynb](Código/Edificios.ipynb): carga, limpieza y análisis de los datos del Catastro sobre los edificios. Se obtiene un fichero sobre los edificios para QGIS y otro para cargarlo en NoiseModelling.
+- [Código/Temperatura_HR.ipynb](Código/Temperatura_HR_automatico.ipynb): obtención de la media de temperatura y humedad relativa de las estaciones meteorológicas de Madrid por cada mes. Cada par de valores se añade en NoiseModelling para la creación de los mapas de ruido.
+- [Código/Tráfico_diario.ipynb](Código/Tráfico_diario.ipynb): carga, limpieza y análisis sobre las medidas del tráfico diario.
+- [Código/Datos centros sociosanitarios y docentes.ipynb](Código/Datos centros sociosanitarios y docentes.ipynb): carga, limpieza y análisis de los centros sociosanitarios y docentes.
 
