@@ -6,6 +6,4 @@ Este repositorio contiene los datos y el código correspondiente al desarrollo d
 
 La mayor parte de la captura, procesamiento y análisis exploratorio de los datos se ha llevado a cabo de Python, aunque QGIS ha sido de ayuda para la unión de algunas capas vectoriales. A partir de los conjuntos de datos generados, se ha creado un [dashboard interactivo](https://public.tableau.com/app/profile/.lvaro.l.pez7412/viz/Contaminacinacstica/Dashboard2) en Tableau con los mapas de ruido y otras visualizaciones de interés.
 
-El repositorio está dividido en los siguientos directorios y ficheros:
-
 
