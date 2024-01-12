@@ -10,7 +10,7 @@ El repositorio contiene el directorio *Código* con los siguientes notebooks cre
 
 - [Código/Tráfico_mensual_y_calles.ipynb](Código/Tráfico_mensual_y_calles.ipynb): carga, limpieza y análisis de los datos con la intensidad del tráfico y los puntos de medida y de la asignación del tráfico a los ejes viarios. Se obtienen doce ficheros shapefiles para cargarlos en NoiseModelling.
 - [Código/Edificios.ipynb](Código/Edificios.ipynb): carga, limpieza y análisis de los datos del Catastro sobre los edificios. Se obtiene un fichero sobre los edificios para QGIS y otro para cargarlo en NoiseModelling.
-- [Código/Temperatura_HR.ipynb](Código/Temperatura_HR_automatico.ipynb): obtención de la media de temperatura y humedad relativa de las estaciones meteorológicas de Madrid por cada mes. Cada par de valores se añade en NoiseModelling para la creación de los mapas de ruido.
+- [Código/Temperatura_HR.ipynb](Código/Temperatura_HR.ipynb): obtención de la media de temperatura y humedad relativa de las estaciones meteorológicas de Madrid por cada mes. Cada par de valores se añade en NoiseModelling para la creación de los mapas de ruido.
 - [Código/Tráfico_diario.ipynb](Código/Tráfico_diario.ipynb): carga, limpieza y análisis sobre las medidas del tráfico diario.
 - [Código/Centros_sociosanitarios_docentes.ipynb](Código/Centros_sociosanitarios_docentes.ipynb): carga, limpieza y análisis de los centros sociosanitarios y docentes.
 
