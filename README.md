@@ -12,5 +12,7 @@ El repositorio contiene el directorio *Código* con los siguientes notebooks cre
 - [Código/Edificios.ipynb](Código/Edificios.ipynb): carga, limpieza y análisis de los datos del Catastro sobre los edificios. Se obtiene un fichero sobre los edificios para QGIS y otro para cargarlo en NoiseModelling.
 - [Código/Temperatura_HR.ipynb](Código/Temperatura_HR.ipynb): obtención de la media de temperatura y humedad relativa de las estaciones meteorológicas de Madrid por cada mes. Cada par de valores se añade en NoiseModelling para la creación de los mapas de ruido.
 - [Código/Tráfico_diario.ipynb](Código/Tráfico_diario.ipynb): carga, limpieza y análisis sobre las medidas del tráfico diario.
-- [Código/Centros_sociosanitarios_docentes.ipynb](Código/Centros_sociosanitarios_docentes.ipynb): carga, limpieza y análisis de los centros sociosanitarios y docentes.
+- [Código/Exposicion_ruido.ipynb](Código/Exposicion_ruido.ipynb): transformación de los datos de expisición al ruido, tanto de la población como de los centros sociosanitarios y docentes, después de obtener las tablas de salida de NoiseModelling y de asignar a los edificios los receptores más cercanos con los niveles de ruido.
+- [Código/Centros_sociosanitarios_docentes.ipynb](Código/Centros_sociosanitarios_docentes.ipynb): carga, limpieza del dataset inicial de los centros sociosanitarios y docentes antes de QGIS.
 
+Los conjuntos de datos abiertos utilizados para el proyecto y los conjuntos de datos resultantes se pueden encontrar en el directorio de [Google Drive](https://drive.google.com/drive/folders/1wBgVF3ykTYgC7f8M-y8d0pvqTzPFPK5S?usp=drive_link).
