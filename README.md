@@ -14,5 +14,6 @@ El repositorio contiene el directorio *Código* con los siguientes notebooks cre
 - [Código/Tráfico_diario.ipynb](Código/Tráfico_diario.ipynb): carga, limpieza y análisis sobre las medidas del tráfico diario.
 - [Código/Exposición_ruido.ipynb](Código/Exposición_ruido.ipynb): transformación de los datos de expisición al ruido, tanto de la población como de los centros sociosanitarios y docentes, después de obtener las tablas de salida de NoiseModelling y de asignar a los edificios los receptores más cercanos con los niveles de ruido.
 - [Código/Centros_sociosanitarios_docentes.ipynb](Código/Centros_sociosanitarios_docentes.ipynb): carga, limpieza del dataset inicial de los centros sociosanitarios y docentes antes de QGIS.
+- [Código/Unir_datos_mapas_para_Tableau.ipynb](Código/Unir_datos_mapas_para_Tableau.ipynb): se unen los conjuntos de datos con los contornos de ruido de los cuatro índices y doce meses, con el objetivo de cargarlo todo junto en Tableau.
 
 Los conjuntos de datos abiertos utilizados para el proyecto y los conjuntos de datos resultantes se pueden encontrar en el directorio de [Google Drive](https://drive.google.com/drive/folders/1wBgVF3ykTYgC7f8M-y8d0pvqTzPFPK5S?usp=drive_link).
